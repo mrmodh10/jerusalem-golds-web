@@ -2,7 +2,7 @@
   "name": "jerusalem-golds-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrmodh10.github.io/jerusalem-golds-web",
+  "homepage": "https://mrmodh10.github.io/",
   "dependencies": {
     "@supabase/supabase-js": "^2.45.3",
     "@testing-library/jest-dom": "^5.14.1",
