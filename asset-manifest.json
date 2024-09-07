@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jerusalem-golds-web/static/css/main.2df71899.css",
-    "main.js": "/jerusalem-golds-web/static/js/main.266f579c.js",
-    "static/js/198.daa35e60.chunk.js": "/jerusalem-golds-web/static/js/198.daa35e60.chunk.js",
-    "static/media/background.png": "/jerusalem-golds-web/static/media/background.b3a37f551ee17ef76039.png",
-    "index.html": "/jerusalem-golds-web/index.html",
-    "main.2df71899.css.map": "/jerusalem-golds-web/static/css/main.2df71899.css.map",
-    "main.266f579c.js.map": "/jerusalem-golds-web/static/js/main.266f579c.js.map",
-    "198.daa35e60.chunk.js.map": "/jerusalem-golds-web/static/js/198.daa35e60.chunk.js.map"
+    "main.css": "/static/css/main.aedc3011.css",
+    "main.js": "/static/js/main.9c95d35f.js",
+    "static/js/198.daa35e60.chunk.js": "/static/js/198.daa35e60.chunk.js",
+    "static/media/background.png": "/static/media/background.b3a37f551ee17ef76039.png",
+    "index.html": "/index.html",
+    "main.aedc3011.css.map": "/static/css/main.aedc3011.css.map",
+    "main.9c95d35f.js.map": "/static/js/main.9c95d35f.js.map",
+    "198.daa35e60.chunk.js.map": "/static/js/198.daa35e60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2df71899.css",
-    "static/js/main.266f579c.js"
+    "static/css/main.aedc3011.css",
+    "static/js/main.9c95d35f.js"
   ]
 }
