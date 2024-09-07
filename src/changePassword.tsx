@@ -1,7 +1,6 @@
 import { createClient } from '@supabase/supabase-js';
 import React, { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { customStorageAdapter } from './helpers/localStorage';
 
 const supabaseUrl = 'https://uefravmonfnvzsomfefm.supabase.co'
 const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVlZnJhdm1vbmZudnpzb21mZWZtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTgzMzE2OTQsImV4cCI6MjAzMzkwNzY5NH0.Yo66m1H4TqsurZfdAc2-D8ukaBY1ISgpfjksBC0UW7o"
