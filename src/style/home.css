@@ -1,0 +1,11 @@
+.home-background {
+    font-family: Arial, sans-serif;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    background: url('../images/background.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh; /* Ensure the div takes up the full height of the viewport */
+    width: 100%; /* Ensure the div takes up the full width of the viewport */
+  }
+  
