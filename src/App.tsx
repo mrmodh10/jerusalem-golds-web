@@ -17,11 +17,11 @@ function App() {
         </nav>
       </div>
       <Routes>
-        <Route path="/" element={<Home />} />
         <Route path="/Privacy-Policy" element={<PrivacyPolicy />} />
         <Route path="/Email-Verified" element={<EmailVerified />} />
         <Route path="/Change-Password" element={<ChangePassword />} />
         <Route path="/Password-Updated" element={<PasswordUpdated />} />
+        <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );
